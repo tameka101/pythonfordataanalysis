@@ -7,3 +7,5 @@ Tasks Completed:
 - Clean Data (remove nulls, checked coulmn types)
 - Performend Data Exploration
 - Performed aggreation to create dataframes for investors
+
+Code for Project 1: amazonslaesproject.py
