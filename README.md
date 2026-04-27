@@ -1,4 +1,4 @@
-# Pythonfor Data Analysis
+# Python for Data Analysis
 This is my repo for my python work
 
 ### Project 1: Analying Amazon Sales Data
